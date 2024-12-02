@@ -1,1 +1,5 @@
-alo brasil
+Este é um arquivo de teste para demonstração do ransomware.
+AVISO: Este projeto é apenas para fins educacionais e de aprendizado.
+Nunca use ferramentas de ransomware para fins maliciosos ou ilegais.
+Data: 2024
+Autor: Projeto Educacional de Cibersegurança

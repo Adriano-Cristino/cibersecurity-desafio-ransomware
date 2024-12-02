@@ -1,0 +1,20 @@
+# Arquivos Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambiente virtual
+venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+
+# Arquivos de teste
+*.ransomwaretroll
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
